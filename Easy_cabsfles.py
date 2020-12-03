@@ -1,7 +1,7 @@
-##########									 ##############
+##########				     ##############
 ########## SKRYPT DZIALA TYLKO NA PYTHON 2.7 ##############
 ##########   KONIECZNE JEST ZAINSTALOWANIE   ##############
-##########      CABSflex STANDALONE		     ##############
+##########      CABSflex STANDALONE	     ##############
 ##########                                   ##############
 
 dir_path = 'project12520' #### Nalezy podmienic 'pdb_files' na sciezke do katalogu z plikami pdb,####
