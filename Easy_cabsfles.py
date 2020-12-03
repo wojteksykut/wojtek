@@ -5,7 +5,7 @@
 ##########                                   ##############
 
 dir_path = 'project12520' #### Nalezy podmienic 'pdb_files' na sciezke do katalogu z plikami pdb,####
-					   ####   ktore ma analizowac CABSflex, a nastepnie skompilowac skrypt.   ####
+			  ####   ktore ma analizowac CABSflex, a nastepnie skompilowac skrypt.   ####
 
 		#### Przy kompilacji, program wczytuje pliki z katalogu dir_path i kolejno puszcza 
 		#### CABSa na tych plikach. Nastepnie sprawdza energie poszczegolnych konformacji
